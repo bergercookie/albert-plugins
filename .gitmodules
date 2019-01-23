@@ -1,0 +1,6 @@
+[submodule "Forecast"]
+	path = Forecast
+	url = https://github.com/AlbertExtensions/Forecast
+[submodule "Movies"]
+	path = Movies
+	url = https://github.com/AlbertExtensions/Movies
